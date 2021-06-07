@@ -1,3 +1,3 @@
-hi
-hi
-hi
+Hi, I am Malav
+I am learning python for OOP
+I am a machine learning enthusiast
